@@ -1,0 +1,28 @@
+#map {
+    padding:0px
+}
+
+#map-leaflet{
+    height: 350px;
+}
+
+section.success a,
+section.success a:hover,
+section.success a:focus,
+section.success a.active{
+    color: #{{ site.color.secondary-dark }};
+}
+
+/*Map marker glyph*/
+hr.star-light:after,
+hr.star-primary:after {
+    content: "\f041";
+}
+
+.modal-body p{
+  font-size: 17px;
+}
+
+.caption-content{
+    top: 33% !important;
+}
