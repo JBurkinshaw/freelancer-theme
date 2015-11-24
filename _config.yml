@@ -7,7 +7,7 @@ skills: "Geospatial Specialist & Developer"
 meta_author: LastName FirstName
 
 # Google webmaster tools
-google_verify:UA-39902836-1
+google_verify: UA-39902836-1
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
