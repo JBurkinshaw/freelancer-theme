@@ -17,10 +17,6 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
-                                <!--<li>:
-                                    <strong>{{ post.client }}</a>
-                                    </strong>
-                                </li>-->
                                 <li>Date:
                                     <strong>{{ post.project-date }}</a>
                                     </strong>
@@ -29,6 +25,12 @@
                                     <strong>{{ post.technologies }}</a>
                                     </strong>
                                 </li>
+                                {% if post.attribution %}
+                                <li>Attribution:
+                                    <strong>{{ post.attribution }}</a>
+                                    </strong>
+                                </li>
+                                {% endif %}
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
