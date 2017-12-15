@@ -2,7 +2,7 @@
 title: Joe Burkinshaw
 email: joseph.p.burkinshaw@gmail.com
 url: https://joeburkinshaw.com
-description: "Joe Burkinshaw is a geospatial specialist, software developer, map nerd and outdoor enthsiast based in Victoria, British Columbia Canada."
+description: "Joe Burkinshaw is a geospatial specialist, software developer, map guy and outdoor enthsiast based in Squamish, British Columbia Canada."
 skills: "Geospatial Specialist & Developer"
 meta_author: LastName FirstName
 
@@ -44,13 +44,13 @@ social:
   - title: github
     url: https://github.com/JBurkinshaw
   - title: instagram
-    url: https://instagram.com/j.burky/
+    url: https://instagram.com/jburky/
   - title: linkedin
     url: https://ca.linkedin.com/in/joeburkinshaw
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Victoria
+  - line: Squamish
   - line: British Columbia
   - line: Canada
 
