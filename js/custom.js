@@ -5,7 +5,7 @@
  // Create a map object in the map div
  var map = L.map('map-leaflet', {
    scrollWheelZoom: false
- }).setView([49.70, -123.15], 7);
+ }).setView([49.70, -123.15], 9);
 
 // Add a layer to the map
  L.tileLayer('http://b.sm.mapstack.stamen.com/((toner-background,$fff[difference],$fff[@70],$eb9074[hsl-color]),toner-labels[@80])/{z}/{x}/{y}.png', {
